@@ -24,6 +24,7 @@
 - [founderpal](https://founderpal.ai/) - for who hate marketing
 - [renderforest](https://www.renderforest.com/) - all your design tools in one place
 - [pica.style](https://pika.style/templates/macbook-mockup-template)  - for website mockup on devices
+- [loom](https://www.loom.com) - tool to record your app
 
 
 ## Create Posts
