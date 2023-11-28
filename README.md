@@ -3,6 +3,8 @@
 ## General
 - [1000tools](https://1000.tools) - list of the 1000 best tools
 
+## AI
+- [GPT prompts](https://github.com/linexjlin/GPTs) - Leaked awesome GPT prompts
 
 ## Design
 - [designerbag](https://bento.me/designerbag) - design tools and Chrome extensions that may be useful to you
@@ -18,6 +20,7 @@
 
 ## Tech
 - [polygon](https://polygon.io/) - stock market api
+- [mintlify](https://mintlify.com/) - AI generated docs / VS extension
 
 
 ## Marketing
