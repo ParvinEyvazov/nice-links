@@ -33,3 +33,4 @@
 ## Create Posts
 - [canva](https://www.canva.com/) - canva <3
 - [TypeFrames](https://www.typeframes.com) - text to video
+- [AnimStats](https://www.animstats.com/) - beautiful way to show stats
