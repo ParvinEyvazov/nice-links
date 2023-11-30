@@ -2,6 +2,7 @@
 
 ## General
 - [1000tools](https://1000.tools) - list of the 1000 best tools
+- [Functional Tools](https://functional.tools/) - Tool for editable ScreenShot/Stats/Banner and more...
 
 ## AI
 - [GPT prompts](https://github.com/linexjlin/GPTs) - Leaked awesome GPT prompts
