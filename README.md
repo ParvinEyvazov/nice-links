@@ -20,7 +20,8 @@
 - [landingfolio](https://www.landingfolio.com/) - landing page helper
 - [sketchfab](https://sketchfab.com/tags/free) - free 3d animations
 - [dicebear](https://www.dicebear.com/) - free avatars
-- [undraw](https://undraw.co/illustrations) - free illustrations 
+- [undraw](https://undraw.co/illustrations) - free illustrations
+- [spline](https://spline.design/) - 3d animations
 
 
 ## Tech
