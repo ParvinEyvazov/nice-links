@@ -22,6 +22,7 @@
 - [dicebear](https://www.dicebear.com/) - free avatars
 - [undraw](https://undraw.co/illustrations) - free illustrations
 - [spline](https://spline.design/) - 3d animations
+- [freeconvert](https://www.freeconvert.com/png-to-ico) - png to ico with high quality
 
 
 ## Tech
