@@ -12,6 +12,7 @@
 - [Krea.ai Upscalar](https://www.krea.ai/apps/image/enhancer) - Photo Upscalar
 
 ## Design
+- [lucide.dev](https://lucide.dev/icons/) - free beautiful icons
 - [designerbag](https://bento.me/designerbag) - design tools and Chrome extensions that may be useful to you
 - [feathericons](https://feathericons.com/) - free icons
 - [svgicons](http://svgicons.sparkk.fr/) - free icons
