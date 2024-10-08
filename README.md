@@ -2,6 +2,7 @@
 
 ## General
 - [1000tools](https://1000.tools) - list of the 1000 best tools
+- [10015.io](https://10015.io) - nice small handy tools
 - [Functional Tools](https://functional.tools/) - Tool for editable ScreenShot/Stats/Banner and more...
 - [500 Promote Place [Notion]](https://fringe-rotate-0b1.notion.site/500-places-to-promote-your-startup-ff3b013f710d4d37b9ba65fd9d1313f8) - 500+ places to promote your startup
 
