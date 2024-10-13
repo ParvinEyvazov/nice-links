@@ -54,3 +54,4 @@
 - [dev-extreme](https://js.devexpress.com/React/Demos/WidgetsGallery/)
 - [radix-ui](https://www.radix-ui.com)
 - [fluentUI](https://react.fluentui.dev/)
+- [material tailwind](https://www.material-tailwind.com/docs/react/installation)
