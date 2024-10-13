@@ -43,3 +43,7 @@
 - [canva](https://www.canva.com/) - canva <3
 - [TypeFrames](https://www.typeframes.com) - text to video
 - [AnimStats](https://www.animstats.com/) - beautiful way to show stats
+
+## React UI Libs/Kits
+- [nextUI](https://nextui.org/docs/components/input)
+- [shadcn/ui](https://ui.shadcn.com/)
