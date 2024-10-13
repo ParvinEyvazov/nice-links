@@ -47,3 +47,10 @@
 ## React UI Libs/Kits
 - [nextUI](https://nextui.org/docs/components)
 - [shadcn/ui](https://ui.shadcn.com/)
+- [daisyUI](https://daisyui.com/components/)
+- [mantine](https://mantine.dev/)
+- [chakraUI](https://v2.chakra-ui.com/docs/components)
+- [ant.design](https://ant.design/)
+- [dev-extreme](https://js.devexpress.com/React/Demos/WidgetsGallery/)
+- [radix-ui](https://www.radix-ui.com)
+- [fluentUI](https://react.fluentui.dev/)
