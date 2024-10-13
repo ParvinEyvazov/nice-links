@@ -45,5 +45,5 @@
 - [AnimStats](https://www.animstats.com/) - beautiful way to show stats
 
 ## React UI Libs/Kits
-- [nextUI](https://nextui.org/docs/components/input)
+- [nextUI](https://nextui.org/docs/components)
 - [shadcn/ui](https://ui.shadcn.com/)
