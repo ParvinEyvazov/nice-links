@@ -46,7 +46,7 @@
 
 ## React UI Libs/Kits
 - [nextUI](https://nextui.org/docs/components)
-- [shadcn/ui](https://ui.shadcn.com/)
+- [shadcn/ui](https://ui.shadcn.com/) also [checkout for more shadcn components](https://github.com/birobirobiro/awesome-shadcn-ui) 
 - [daisyUI](https://daisyui.com/components/)
 - [mantine](https://mantine.dev/)
 - [chakraUI](https://v2.chakra-ui.com/docs/components)
@@ -55,3 +55,4 @@
 - [radix-ui](https://www.radix-ui.com)
 - [fluentUI](https://react.fluentui.dev/)
 - [material tailwind](https://www.material-tailwind.com/docs/react/installation)
+- 
