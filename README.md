@@ -26,6 +26,7 @@
 - [spline](https://spline.design/) - 3d animations
 - [freeconvert](https://www.freeconvert.com/png-to-ico) - png to ico with high quality
 - [uiColors](https://uicolors.app/create) - Link pallette generator
+- [light & dark mode of same color](https://codepen.io/luispadarotto/full/qBQjoOK)
 
 
 ## Tech
