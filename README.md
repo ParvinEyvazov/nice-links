@@ -57,4 +57,6 @@
 - [radix-ui](https://www.radix-ui.com)
 - [fluentUI](https://react.fluentui.dev/)
 - [material tailwind](https://www.material-tailwind.com/docs/react/installation)
+- [magicui.design](https://magicui.design) - cute components
+- [aceternity.com](https://ui.aceternity.com) - cute components
 - 
