@@ -63,5 +63,6 @@
 - [magicui.design](https://magicui.design) - cute components
 - [aceternity.com](https://ui.aceternity.com) - cute components
 - [cult-ui](https://www.cult-ui.com) - cute components
+- [align-ui](https://www.alignui.com/) - cute components
 - [edilozi.pro](https://www.edilozi.pro)
 - 
