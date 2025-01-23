@@ -28,6 +28,7 @@
 - [uiColors](https://uicolors.app/create) - Link pallette generator
 - [light & dark mode of same color](https://codepen.io/luispadarotto/full/qBQjoOK)
 - [lottie files](https://lottiefiles.com/) - animations
+- [streamline](https://www.streamlinehq.com/illustrations/illustrations-brooklyn) - illustrations
 
 
 ## Tech
