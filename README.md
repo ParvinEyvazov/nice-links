@@ -34,6 +34,7 @@
 ## Tech
 - [polygon](https://polygon.io/) - stock market api
 - [mintlify](https://mintlify.com/) - AI generated docs / VS extension
+- [convertio](https://convertio.co/png-ico/) - png to favicon [high res]
 
 
 ## Marketing
