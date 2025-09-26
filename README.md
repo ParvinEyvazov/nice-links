@@ -68,4 +68,5 @@
 - [align-ui](https://www.alignui.com/) - cute components
 - [21st.dev](https://21st.dev/?tab=components&sort=recommended) - react & next components
 - [edilozi.pro](https://www.edilozi.pro)
+- [reactbits.dev](https://reactbits.dev) - react components with great animations
 - 
