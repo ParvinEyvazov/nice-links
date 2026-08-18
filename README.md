@@ -6,6 +6,9 @@
 - [Functional Tools](https://functional.tools/) - Tool for editable ScreenShot/Stats/Banner and more...
 - [500 Promote Place [Notion]](https://fringe-rotate-0b1.notion.site/500-places-to-promote-your-startup-ff3b013f710d4d37b9ba65fd9d1313f8) - 500+ places to promote your startup
 
+## UI Sounds
+- [uisfx.com](https://uisfx.com) - 936 cute free ui sounds
+
 ## AI
 - [GPT prompts](https://github.com/linexjlin/GPTs) - Leaked awesome GPT prompts
 - [Krea.ai Logo](https://www.krea.ai/apps/image/logos) - Logo to photo Illusions
